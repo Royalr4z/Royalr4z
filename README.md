@@ -3,6 +3,20 @@ WHOAMI
 - 👋 Eae, Eu me chamo Vinícius
 - 🌎 sou de Brasília, DF - Brasil
 - 🎂 tenho 18 anos
+- 📖 Conhecimentos:
+&nbsp;<br/>
+  -> **React**
+&nbsp;<br/>
+  -> **Angular**
+&nbsp;<br/>
+  -> **Vue.js**
+&nbsp;<br/>
+  -> **Node.js**
+&nbsp;<br/>
+  -> **SQL**
+&nbsp;<br/>
+  -> **Python**
+
 - 👀 Estou interessado em Machine Learning, Blockchain e Cloud Computing
 - 🌱 Atualmente estou aprendendo Machine Learning
 - 📫 Como entra em contato comigo:<br/>
