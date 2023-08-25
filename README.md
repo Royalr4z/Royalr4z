@@ -6,12 +6,12 @@ WHOAMI
 - 📫 Como entra em contato comigo:<br/>
         <div>->
             <a href="https://www.linkedin.com/">
-              ![Linkedin](./Img/linkedin.svg)
+              <img src="./Img/linkedin.svg" width="20" height="20" alt="Linkedin">
             </a>
         </div>
         <div>-> 
             <a href="https://www.Instagram.com/">
-              ![Instagram](./Img/instagram.svg)
+              <img src="./Img/instagram.svg" width="20" height="20" alt="Instagram">
             </a>
         </div>
       
