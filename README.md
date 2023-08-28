@@ -8,17 +8,17 @@ WHOAMI
     <summary>Clique para ver os meus conhecimentos</summary>
   
     &nbsp;<br/>
-    -> **React**
+    ➡️ **React**
     &nbsp;<br/>
-    -> **Angular**
+    ➡️ **Angular**
     &nbsp;<br/>
-    -> **Vue.js**
+    ➡️ **Vue.js**
     &nbsp;<br/>
-    -> **Node.js**
+    ➡️ **Node.js**
     &nbsp;<br/>
-    -> **SQL**
+    ➡️ **SQL**
     &nbsp;<br/>
-    -> **Python**
+    ➡️ **Python**
   
   </details>
 
