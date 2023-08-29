@@ -30,16 +30,26 @@ WHOAMI
           &nbsp;
           &nbsp;
           <a href="https://www.linkedin.com/">
-                  <img src="./Img/linkedin.svg" width="50" height="50" alt="Linkedin">
+                  <img src="./Img/linkedin.svg" width="55" height="55" alt="Linkedin">
           </a>
-        </div>
-        <div>
-          &nbsp;
           &nbsp;
           &nbsp;
           <a href="https://www.Instagram.com/">
                   <img src="./Img/instagram.svg" width="50" height="50" alt="Instagram">
           </a>
+        </div>
+        <div>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+              <a href="https://www.discord.com/">
+                  <img src="./Img/discord.svg" width="50" height="50" alt="Discord">
+              </a>
+          &nbsp;
+          &nbsp;
+              <a href="https://www.teams.com/">
+                    <img src="./Img/microsoft_teams.svg" width="50" height="50" alt="Teams">
+              </a>
         </div>
 
 
