@@ -18,6 +18,8 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **SQL**
     &nbsp;<br/>
+    ➡️ **Docker**
+    &nbsp;<br/>
     ➡️ **Python**
   
   </details>
