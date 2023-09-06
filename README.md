@@ -8,19 +8,13 @@ WHOAMI
     <summary>Clique para ver os meus conhecimentos</summary>
   
     &nbsp;<br/>
-    ➡️ **React**
+    ➡️ **Frontend:** React, Angular, VueJS, NextJS
     &nbsp;<br/>
-    ➡️ **Angular**
+    ➡️ **Backend:** Node, Python, PHP
     &nbsp;<br/>
-    ➡️ **Vue.js**
+    ➡️ **RPA:** Python
     &nbsp;<br/>
-    ➡️ **Node.js**
-    &nbsp;<br/>
-    ➡️ **SQL**
-    &nbsp;<br/>
-    ➡️ **Docker**
-    &nbsp;<br/>
-    ➡️ **Python**
+    ➡️ **Outros:** SQL, Docker
   
   </details>
 
