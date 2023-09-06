@@ -32,25 +32,25 @@ WHOAMI
           &nbsp;
           &nbsp;
           <a href="https://www.linkedin.com">
-                  <img src="./Img/Linkedin.png" width="55" height="55" alt="Linkedin">
+                  <img src="./Img/Linkedin.png" width="200" height="55" alt="Linkedin">
           </a>
-        </div>
+        </div><br/>
         <div>
           &nbsp;
           &nbsp;
           &nbsp;
           <a href="https://www.Instagram.com/">
-                  <img src="./Img/Instagram.png" width="50" height="50" alt="Instagram">
+                  <img src="./Img/Instagram.png" width="200" height="55" alt="Instagram">
           </a>
-        </div>
+        </div><br/>
         <div>
             &nbsp;
             &nbsp;
             &nbsp;
               <a href="https://www.discord.com/">
-                  <img src="./Img/Discord.png" width="50" height="50" alt="Discord">
+                  <img src="./Img/Discord.png" width="200" height="55" alt="Discord">
               </a>
-        </div>
+        </div><br/>
 
 
 <!---
