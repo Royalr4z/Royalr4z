@@ -32,7 +32,7 @@ WHOAMI
           &nbsp;
           &nbsp;
           <a href="https://www.linkedin.com">
-                  <img src="./Img/linkedin.svg" width="55" height="55" alt="Linkedin">
+                  <img src="./Img/linkedin.png" width="55" height="55" alt="Linkedin">
           </a>
           &nbsp;
           &nbsp;
