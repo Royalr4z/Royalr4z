@@ -42,7 +42,7 @@ WHOAMI
             &nbsp;
             &nbsp;
               <a href="https://www.discord.com/">
-                  <img src="./Img/Discord.png" width="250" height="55" alt="Discord">
+                  <img src="./Img/Discord.png" width="300" height="55" alt="Discord">
               </a>
         </div><br/>
 
