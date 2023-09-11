@@ -14,7 +14,7 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **RPA:** Python
     &nbsp;<br/>
-    ➡️ **Outros:** SQL, Docker
+    ➡️ **Outros:** SQL, Docker, React Native
   
   </details>
 
