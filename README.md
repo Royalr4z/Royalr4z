@@ -13,7 +13,11 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **Backend:** Node, Python, PHP
     &nbsp;<br/>
-    ➡️ **RPA:** Python
+    ➡️ **Python:**
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        - ***DataScience*** -> Numpy, Pandas, scikit-learn
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        - ***RPA*** -> Selenium, BeautifulSoup, openpyxl
     &nbsp;<br/>
     ➡️ **Outros:** SQL, Docker, React Native
   
