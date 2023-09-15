@@ -19,7 +19,9 @@ WHOAMI
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         - ***RPA*** -> Selenium, BeautifulSoup, openpyxl
     &nbsp;<br/>
-    ➡️ **Outros:** SQL, Docker, React Native
+    ➡️ **Banco de Dados:** MySQL, SQL Server, PostgreSQL, MongoDB
+    &nbsp;<br/>
+    ➡️ **Outros:** Docker, React Native, Git/Github
   
   </details>
 
