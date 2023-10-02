@@ -15,7 +15,7 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **Python:**
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        - ***DataScience*** -> Numpy, Pandas, scikit-learn
+        - ***DataScience*** -> Numpy, Pandas, Seaborn, scikit-learn 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         - ***RPA*** -> Selenium, BeautifulSoup, openpyxl
     &nbsp;<br/>
