@@ -32,7 +32,7 @@ WHOAMI
           &nbsp;
           &nbsp;
           &nbsp;
-          <a href="https://www.linkedin.com">
+          <a href="https://www.linkedin.com/in/vin%C3%ADcius-viana-23b75a265/">
                   <img src="./Img/Linkedin.png" width="200" height="55" alt="Linkedin">
           </a>
         </div><br/>
