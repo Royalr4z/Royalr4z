@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61a9f7&height=120&section=header"/>
+
 WHOAMI
 ============================
 
@@ -28,7 +30,7 @@ WHOAMI
 - 👀 Estou interessado em Machine Learning, Blockchain e Cloud Computing
 - 🌱 Atualmente estou aprendendo Machine Learning
 - 📫 Como entra em contato comigo:<br/>
-<br/> 
+<br/>
 <div align="left">
 <a href="https://github.com/Royalr4z" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -85,6 +87,16 @@ WHOAMI
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="Powershell" height="50" /></a>  
 
+<br/>
+<br/>
+<br/>
+<div align="left">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royalr4z&layout=compact&hide_border=true&title_color=61a9f7&text_color=61a9f7&bg_color=0d1117" />
+  <img style="border-radius: 25px" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Royalr4z&bg_color=0d1117&color=61a9f7&line=61a9f7&point=00397a&area=false&hide_border=true" />
+<div/>
+<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61a9f7&height=120&section=footer"/>
 
 <!---
 Royalr4z/Royalr4z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
