@@ -90,7 +90,7 @@ WHOAMI
 <br/>
 <br/>
 <br/>
-<div align="left">
+<div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royalr4z&layout=compact&hide_border=true&title_color=61a9f7&text_color=61a9f7&bg_color=0d1117" />
   <img style="border-radius: 25px" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Royalr4z&bg_color=0d1117&color=61a9f7&line=61a9f7&point=00397a&area=false&hide_border=true" />
 <div/>
