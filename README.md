@@ -28,7 +28,7 @@ WHOAMI
   </details>
 
 - 👀 Estou interessado em Machine Learning, Blockchain e Cloud Computing
-- 🌱 Atualmente estou aprendendo Blockchain
+- 🌱 Atualmente estou aprendendo Machine Learning
 - 📫 Como entra em contato comigo:<br/>
 <br/>
 <div align="left">
