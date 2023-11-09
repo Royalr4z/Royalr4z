@@ -23,7 +23,9 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **Banco de Dados:** MySQL, SQL Server, PostgreSQL, MongoDB
     &nbsp;<br/>
-    ➡️ **Outros:** Docker, Kubernetes, C/C++, React Native, Git/Github
+    ➡️ **DevOps:** Docker, Kubernetes, Git/Github
+    &nbsp;<br/>
+    ➡️ **Outros:** C/C++, React Native
   
   </details>
 
