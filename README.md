@@ -13,7 +13,7 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **Frontend:** React, Angular, VueJS, NextJS
     &nbsp;<br/>
-    ➡️ **Backend:** Node, Python, PHP
+    ➡️ **Backend:** Node, Python, C#
     &nbsp;<br/>
     ➡️ **Python:**
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
