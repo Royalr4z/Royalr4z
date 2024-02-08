@@ -25,7 +25,7 @@ WHOAMI
     &nbsp;<br/>
     ➡️ **DevOps:** Docker, Kubernetes, Git/Github
     &nbsp;<br/>
-    ➡️ **Outros:** C/C++, React Native
+    ➡️ **Outros:** C/C++, React Native, Scrum
   
   </details>
 
