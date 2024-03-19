@@ -98,9 +98,9 @@ WHOAMI
 <br/>
 <br/>
 <div align="center">
-  <img width="49.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royalr4z&layout=compact&theme=nord" />
-  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Royalr4z&show_icons=true&include_all_commits&hide_rank=false&line_height=35&rank_icon=github&theme=nord" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Royalr4z&area=false&hide_border=false&theme=nord" />
+  <img width="49.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royalr4z&layout=compact&theme=algolia" />
+  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Royalr4z&show_icons=true&include_all_commits&hide_rank=false&line_height=35&rank_icon=github&theme=algolia" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Royalr4z&area=true&hide_border=false&bg_color=050F2C&line=00AEFF&point=00496b&color=FFFFFF&area_color=00AEFF&radius=16" />
 <div/>
 <br/>
 
