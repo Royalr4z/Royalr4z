@@ -29,8 +29,8 @@ WHOAMI
   
   </details>
 
-- 👀 Estou interessado em Machine Learning, Blockchain e Cloud Computing
-- 🌱 Atualmente estou aprendendo Machine Learning
+- 👀 Estou interessado em Blockchain, Machine Learning e Cloud Computing
+- 🌱 Atualmente estou aprendendo Blockchain
 - 📫 Como entra em contato comigo:<br/>
 <br/>
 <div align="left">
@@ -100,7 +100,7 @@ WHOAMI
 <div align="center">
   <img width="49.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royalr4z&layout=compact&theme=algolia" />
   <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Royalr4z&show_icons=true&include_all_commits&hide_rank=false&line_height=35&rank_icon=github&theme=algolia" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Royalr4z&area=true&hide_border=false&bg_color=050F2C&line=00AEFF&point=00496b&color=FFFFFF&area_color=00AEFF&radius=16" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Royalr4z&area=true&hide_border=false&bg_color=050F2C&line=2DDE98&area_color=2DDE98&point=105339&color=FFFFFF&title_color=00AEFF&radius=16" />
 <div/>
 <br/>
 
