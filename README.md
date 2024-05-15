@@ -11,6 +11,8 @@ WHOAMI
     <summary>Clique para ver os meus conhecimentos</summary>
   
     &nbsp;<br/>
+    ➡️ **Distributed ledger:** Hyperledger Besu, Solidity
+    &nbsp;<br/>
     ➡️ **Frontend:** React, Angular, VueJS, NextJS
     &nbsp;<br/>
     ➡️ **Backend:** Node, Python, C#
