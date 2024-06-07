@@ -11,7 +11,7 @@ WHOAMI
     <summary>Clique para ver os meus conhecimentos</summary>
   
     &nbsp;<br/>
-    ➡️ **Distributed ledger:** Hyperledger Besu, Solidity
+    ➡️ **Distributed ledger:** Hyperledger Besu/Fabric, R3 Corda, Solidity
     &nbsp;<br/>
     ➡️ **Frontend:** React, Angular, VueJS, NextJS
     &nbsp;<br/>
