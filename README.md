@@ -5,7 +5,7 @@ WHOAMI
 
 - 👋 Eae, Eu me chamo Vinícius
 - 🌎 sou de Brasília - DF, Brasil
-- 🎂 tenho 19 anos
+- 🎂 tenho 20 anos
 - 📖 Conhecimentos:
   <details>
     <summary>Clique para ver os meus conhecimentos</summary>
